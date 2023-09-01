@@ -19,5 +19,4 @@ assignees: ''
  ```gherkin
  Given 
  When 
- Then 
- ```
+ Then
